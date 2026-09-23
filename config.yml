@@ -1,4 +1,4 @@
-baseURL: "https://amirpourmand.ir/"
+baseURL: "https://abmokhtari.ir/"
 title: Abolfazl Mokhtari
 theme: PaperMod
 copyright: All content on this site is licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
@@ -19,12 +19,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Amir Pourmand Personal Blog
+  title: Abolfazl Mokhtari Personal Blog
   description: |
-    I am Amir Pourmand and this is my personal blog. 
+    I am Abolfazl Mokhtariand this is my personal blog. 
     I write about everything that comes into my mind and things I experience like: Machine learning, Data Science, Website and etc.
-  keywords: [Blog, Portfolio, AmirPourmand, AI]
-  author: Amir
+  keywords: [Blog, Portfolio, AbolfazlMokhtari, AI]
+  author: Abolfazl
   # author: ["Me", "You"] # multiple authors
   images: ["opengraph/opengraph.png"]
   DateFormat: "January 2, 2006"
@@ -79,32 +79,32 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Amir Pourmand"
+    Title: "Abolfazl Mokhtari"
     Content: |
       Welcome to my blog. Here, I will share my thoughts \
-      You can click [here](https://aprd.ir) to visit my Farsi Blog.
+      You can click [here](https://abmokhtari.ir) to visit my Farsi Blog.
 
   socialIcons:
     - name: Farsi Site
-      url: "https://aprd.ir"
+      url: "https://abmokhtari.ir"
     - name: email
-      url: "mailto:pourmand1376@gmail.com"
+      url: "mailto:mokhtariabolfazl(at)gmail.com"
     - name: github
-      url: "https://github.com/pourmand1376"
+      url: "https://github.com/pershix"
     - name: substack
-      url: https://substack.com/@pourmand1376
+      url: https://substack.com/@abmokhtari
     - name: linkedin
-      url: "https://www.linkedin.com/in/amir-pourmand"
+      url: "https://www.linkedin.com/in/"
     - name: stackoverflow
-      url: "https://stackoverflow.com/users/4201765"
+      url: "https://stackoverflow.com/"
     # - name: twitter
-    #   url: "https://twitter.com/_amirpourmand"
+    #   url: "https://twitter.com/"
     - name: kaggle
-      url: "https://kaggle.com/amirpourmand"
+      url: "https://kaggle.com/"
     - name: huggingface
-      url: "https://huggingface.co/pourmand1376/"
+      url: "https://huggingface.co/Abmokhtari/"
     - name: rss
-      url: "https://amirpourmand.ir/index.xml"
+      url: "https://Abmokhtari.ir/index.xml"
 
   analytics:
     google:
