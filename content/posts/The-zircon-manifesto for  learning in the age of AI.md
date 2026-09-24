@@ -1,5 +1,5 @@
 ---
-title: "The Zircon Manifesto: Noise Rejection, Deep Time, and the Architecture of Learning"
+title: "The Zircon Manifesto: the Architecture of Learning"
 date: 2026-09-25
 tags:
   - philosophy
