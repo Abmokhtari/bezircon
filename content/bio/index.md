@@ -1,26 +1,32 @@
 ---
 title: "Biography"
 draft: false
-description: Short biography of me
+description: "About Abolfazl Mokhtari — Seismotectonics researcher, systems thinker, and lifelong learner."
 comments: false
 toc: false
 ---
 
-<img src="prof_pic.jpg#center" alt="Profile Image" width='300'>
+# Abolfazl Mokhtari (ابوالفضل مختاری)
 
-I am Amir Pourmand (امیر پورمند - in Farsi). Currently, I'm pursuing my master's degree in `AI & Robotics` at the Sharif University of Technology under the supervision of [Prof. Hamid R. Rabiee](http://sharif.edu/~rabiee/). As a member of `Digital Media Laboratory`, I'm working on "automatic, real-time polyp detection and classification using XAI".
+Welcome to my personal digital garden.
 
-I've studied computer engineering at [Yazd University](https://yazd.ac.ir/en). I've worked as a `software developer` in Amapardazesh company from 2016 to 2020 . That's why I know a lot about clean coding, software architectures, and excellent tools like git, which I use daily. 
+I am a PhD student in **Seismotectonics and Engineering Geology**, focusing on fault mechanics, seismotectonics, and structural dynamics (specifically researching the complex multi-segmented Kuhbanan Fault).
 
-Then, I got tired of coding as a software developer and I felt that It was somehow boring. So, I decided to pursue my master's degree to see what's going on in the world of AI. 
+Beyond geosciences, I am an explorer driven by curiosity across several interdisciplinary domains:
+- **Systems Thinking & Mental Models:** Understanding how complex, non-linear dynamics govern nature, cognition, and organizations.
+- **The Neuroscience of Learning & Meta-Learning:** Evidence-based instructional design, durable learning (*Learning that lasts*), and constructing friction-free knowledge architectures for neurodivergent and ADHD minds.
+- **Artificial Intelligence & Autonomous Agents:** Exploring LLMs, agentic workflows, and automated knowledge curation.
+- **Music Theory & Guitar:** The structural geometry of acoustics, modes, and harmonic systems.
 
-So, I studied! 
+---
 
-In Aug 2020, I was ranked **1st** among over 16,000 graduate applicants in the Iranian National University Entrance Exam for M.Sc. of Computer Engineering **in 7 (all CE) majors** (this rank is unprecedented in the history of CE University entrance exam) [(My Experiences)](https://aprd.ir/computer-engineering-masters-exam/). Afterward, In February 2021, I got **Silver Medal** in the 25th Scientific Olympiads for Iranian University Students [(My experiences)](https://aprd.ir/olympiad-computer-engineering/).
+### The Guiding Philosophy: *Be Zircon*
 
-I prefer to use GNU-Linux OSes like Manjaro (Arch Linux)  or Kubuntu (KDE + Ubuntu) for my daily usage. I love [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), and this is the main reason I migrated from Windows to GNU-Linux. I'd love to call myself a `computer geek`.
+In geology, the **zircon** crystal ($\text{ZrSiO}_4$) is Earth's oldest surviving witness ($4.4\text{ billion years}$ old). It endured not by absorbing everything around it, but by **strictly rejecting lead ($\text{Pb}^{2+}$) while locking in uranium decay clocks with mathematical purity**.
 
-I've also taken some MBTI tests and they have mostly categorized me into `Architect`([INTJ](https://www.16personalities.com/intj-personality)) or Logician ([INTP](https://www.16personalities.com/intp-personality)). I agree with both of them to some extent, and It seems to me that I am more `Architect`.  
+In a world overwhelmed by informational noise and shallow summaries, I apply this mineral metaphor to learning:
+1. **Via Negativa:** Subtraction before addition. Defining what **not** to read is the first prerequisite of intellectual autonomy.
+2. **Crystal Learning:** Concepts must interlock into a resilient mental lattice rather than accumulating as loose piles of sand.
+3. **Biological Pacing:** Real competence demands incubation, sleep, and time—resisting the illusion of compressed, instant mastery.
 
-However, I think Big-five personality test better describes me. [Here](https://bigfive-test.com/result/62fd4cb93c6f4e0009c810e1) is the result of my big-five test. 
-
+Feel free to browse my writings in the [Archives](/archives/) or explore by [Tags](/tags/).
